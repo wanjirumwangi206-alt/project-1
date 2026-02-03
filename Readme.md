@@ -1,6 +1,6 @@
 ## AIRCRAFT ACCIDENT ANALYSIS
 
-#3 BUSINESS UNDERSTANDING
+## BUSINESS UNDERSTANDING
 
 Manhattan Limited is planning to  venture into the aviation industry by buying and operating commercial and private aircraft.The company has limited knowledge and clear understanding of the safety and risk profiles of different aircraft.
 
@@ -1553,7 +1553,7 @@ FINDINGS
 4.Private operators experienced the highest number of accidents, highlighting a potential area for strict safety oversight.  15
 
 Recommendations
-1. After COVID-19, more safety measures should be taken as operations resume to normalcy and  also standards to be raised to curb COVID-19 like testing our clients for it to prevent the spread.
+1.After COVID-19, more safety measures should be taken as operations resume to normalcy and  also standards to be raised to curb COVID-19 like testing our clients for it to prevent the spread.
 
 2.Purchases should be made on flights with the lowest accidents rates.If need be to purchase flights with high risk extra caution on safety should be taken seriously and thoroughly with very regular maintenace .
 
