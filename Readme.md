@@ -1,6 +1,6 @@
-# BUSINESS UNDERSTANDING
+## AIRCRAFT ACCIDENT ANALYSIS
 
-# BUSINESS UNDERSTANDING
+#3 BUSINESS UNDERSTANDING
 
 Manhattan Limited is planning to  venture into the aviation industry by buying and operating commercial and private aircraft.The company has limited knowledge and clear understanding of the safety and risk profiles of different aircraft.
 
@@ -22,7 +22,7 @@ This analsis aims to review historical aviation accident data to identify types 
 
 
 
-DATA UNDERSTANDING
+## DATA UNDERSTANDING
 
 
 ```python
@@ -275,7 +275,7 @@ df.duplicated().value_counts()
 
 
 
-DATA PREPARATION
+## DATA PREPARATION
 
 
 ```python
