@@ -1550,7 +1550,7 @@ plt.show()
 
 3.Aircraft classified as ‘written off’ show the highest fatality rates, while accidents with ‘substantial’ damage resulted in relatively few fatalities.This indicates that more severe damage generally corresponds to higher fatalities.
 
-4.Private operators experienced the highest number of accidents, highlighting a potential area for strict safety oversight.  15
+4.Private operators experienced the highest number of accidents, highlighting a potential area for strict safety oversight.  
 
 ## Recommendations
 
