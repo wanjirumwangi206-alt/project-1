@@ -1542,7 +1542,7 @@ plt.show()
     
 
 
-FINDINGS 
+## FINDINGS 
 
 1.The highest number of accidents were in 2019, followed by 2018.Accidents dropped significantly in 2020-2021,due to COVID-19 lockdowns, with a slight increase in 2022 as aviation operations resumed.
 
@@ -1552,7 +1552,8 @@ FINDINGS
 
 4.Private operators experienced the highest number of accidents, highlighting a potential area for strict safety oversight.  15
 
-Recommendations
+## Recommendations
+
 1.After COVID-19, more safety measures should be taken as operations resume to normalcy and  also standards to be raised to curb COVID-19 like testing our clients for it to prevent the spread.
 
 2.Purchases should be made on flights with the lowest accidents rates.If need be to purchase flights with high risk extra caution on safety should be taken seriously and thoroughly with very regular maintenace .
